@@ -70,10 +70,10 @@ const ResponsiveFooter = () => {
 
             <div
                 className="border-t border-gray-200 pt-[20px] mt-[40px] flex items-center justify-between w-full flex-wrap gap-[20px]">
-                <img src="https://i.ibb.co/ZHYQ04D/footer-logo.png" alt="logo"
+                <img src="/perfumance_logo_black.webp" alt="logo"
                      className="w-[130px]"/>
 
-                <p className="text-[0.9rem] text-gray-600">© 2024 ZenUI Library. All Rights
+                <p className="text-[0.9rem] text-gray-600">© 2024 Perfumance. All Rights
                     Reserved. </p>
 
                 <div className="flex items-center gap-[10px] text-[#424242]">
